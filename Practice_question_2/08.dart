@@ -1,3 +1,5 @@
+// 8. Write a dart program to create a simple calculator that performs addition, subtraction, multiplication, and division.
+
 import 'dart:io';
 
 void main(){
@@ -20,3 +22,13 @@ void main(){
     }
     else print("Invalid choice.");
 }
+
+/* Input:
+    1. Addition
+    2. Subtraction
+    3. Multiplication
+    4. Division
+    Enter your choice: 1
+    Enter first number: 5
+    Enter second number: 4
+Output: Result: 9 */
